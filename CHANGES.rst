@@ -4,6 +4,9 @@ Changelog
 2.0.0 (unreleased)
 ------------------
 
+- Added rawembed tile
+  [agitator]
+
 - Hide plone toolbar when mosaic editor is active
   [vangheem]
 
